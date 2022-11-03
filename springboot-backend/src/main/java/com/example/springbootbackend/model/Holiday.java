@@ -50,8 +50,8 @@ public class Holiday {
 	}
 
 
-	public void setHoliday(String holiday) {
-		this.holiday = holiday;
+	public void setHoliday(String holiDay) {
+		this.holiday = holiDay;
 	}
 
 
